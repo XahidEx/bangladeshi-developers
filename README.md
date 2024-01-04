@@ -22,6 +22,3 @@ For any queries or suggestions, please open an issue or contact [email](mailto:m
 
 ## Code of Conduct
 Please read the CODE_OF_CONDUCT.md to maintain a respectful and inclusive environment for all contributors.
-
-## License
-[MIT License](LICENSE)
