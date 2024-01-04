@@ -17,8 +17,4 @@ A community-driven list of Bangladeshi developers' portfolios. This repository a
 Please see the CONTRIBUTING.md file for detailed instructions on how to add your portfolio.
 
 ## Contact
-For any queries or suggestions, please open an issue or contact [email](mailto:me@xahidex.com)
-.
-
-## Code of Conduct
-Please read the CODE_OF_CONDUCT.md to maintain a respectful and inclusive environment for all contributors.
+For any queries or suggestions, please open an issue or contact [email](mailto:me@xahidex.com).
